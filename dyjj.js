@@ -208,7 +208,7 @@ function acode() {
 	console.log("获取作者助力码");
 	return new Promise((resolve) => {
 		let options = {
-			"url": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/sources/master/other/rid.json",
+			"url": "https://raw.githubusercontent.com/a592345029/backup/main/rid.json",
 			"headers": {				
 			}
 		}
