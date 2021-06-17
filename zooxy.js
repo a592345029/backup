@@ -663,7 +663,7 @@ function zoo_getHomeData(inviteId= "",timeout = 0) {
             //if (data.data.result.homeMainInfo.raiseInfo.buttonStatus === 1 )
             if ( data.data.result.homeMainInfo.raiseInfo.buttonStatus === 1 && parseInt(data.data.result.homeMainInfo.raiseInfo.totalScore) >= parseInt(data.data.result.homeMainInfo.raiseInfo.nextLevelScore) ) await zoo_raise(1000)
             if (date.getHours() >= 0 && date.getHours() < 23) {
-              await zoo_getHomeData('ZXTKT0225KkcRh4cpFzXKUv0nPIJIQFjRWn6-7zx55awQ');//ZXTKT0225KkcRBka_FPTJBjzkv9YfAFjRWn6-7zx55awQ
+              await zoo_getHomeData('ZXTKT019-aksOlxljiOjaGKxzIEFjRWn6-7zx55awQ');//ZXTKT0225KkcRBka_FPTJBjzkv9YfAFjRWn6-7zx55awQ
             }
             await zoo_getTaskDetail()
             await zoo_getTaskDetail("","app")
