@@ -1,1 +1,1 @@
-[{"activityIdEncrypted":"KfvYurqSW9s=\n","assistStartRecordId":1253684,"assistedPinEncrypted":"wQrm3s4ePVA59d2M3o433kbCOLQDCrQB\n","channel":"FISSION_BEAN"}]
+[{"activityIdEncrypted":"KfvYurqSW9s=\n","assistStartRecordId":1253684,"assistedPinEncrypted":"oxlD8pl-OesFXyFdj4bqEEbCOLQDCrQB\n","channel":"FISSION_BEAN"}]
