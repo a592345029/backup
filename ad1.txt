@@ -1,7 +1,3 @@
-154.7.80.158
-194.59.220.161
-205.209.138.102
-23.231.151.252
 51tongji.trafficmanager.net
 cnzz.trafficmanager.net
 qaemphaels.com
